@@ -52,7 +52,7 @@
                 <div class="grid grid-cols-1">
                     <div class="px-4 py-8">
                         <div class="flex flex-col gap-2">
-                            <h1 class="text-text-white/90">99.9% Uptime</h1>
+                            <h1 class="text-white">99.9% Uptime</h1>
                             <p class="text-white/60 text-sm">Reliable and always available when you need it.</p>
                             <div class="mt-4">
                                 <canvas id="uptimeChart" class="w-full h-28"></canvas>
